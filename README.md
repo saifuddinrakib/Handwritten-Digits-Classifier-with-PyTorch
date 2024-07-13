@@ -9,6 +9,6 @@ In this notebook, I have used the ensemble method using a Sequential Convolution
 - The CNN modeling and evaluation.
 - The results prediction and submission.
 
-## Performance: Accuracy: 0.9947, Loss: 0.0321
+## Performance: test accuracy: 97.69% test loss: 0.00139
 
 *if the notebook causes any problem while loading, check out this link [Digit Recognizer](https://www.kaggle.com/alifrahman/digit-recognizer-for-beginners-0-9966)*
